@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/standalone_datalake.dir/main.cpp.o -o standalone_datalake  -Wl,-rpath,/app/build libdata_lake.so /usr/lib/x86_64-linux-gnu/libfmt.so.9.1.0 /usr/local/lib/libclickhouse-cpp-lib.a /usr/local/lib/libcityhash.a /usr/local/lib/liblz4.a /usr/local/lib/libzstdstatic.a /usr/local/lib/libabsl_int128.a /usr/lib/x86_64-linux-gnu/libzmq.so 

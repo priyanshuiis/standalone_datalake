@@ -1,0 +1,4 @@
+/app/build/CMakeFiles/data_lake.dir
+/app/build/CMakeFiles/standalone_datalake.dir
+/app/build/CMakeFiles/edit_cache.dir
+/app/build/CMakeFiles/rebuild_cache.dir
